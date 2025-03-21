@@ -23,6 +23,7 @@ body{
 }
 
 #display-quote{
+    max-width: 700px;
     font-size: 1.5rem;
     margin: 20px;
 }
